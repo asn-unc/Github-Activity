@@ -36,7 +36,7 @@ IntelliJ is not necessary for this activity, and it is meant to be done on the c
 14. Open a pull request **from your fork’s branch** to the **upstream repository’s `main`** with the title `team: <teamname>`.
 
 
-Each student will have their own file, so there should be no conflicts in this step.    The pull request IS the submission for this assignment.  Once you are done, you can head out.
+Each student will have their own file, so there should be no conflicts in this step.    The pull request IS the submission for this assignment so make sure that you verify that you can see it in the pull requests tab on the website before leaving.  
 
 
 ---
